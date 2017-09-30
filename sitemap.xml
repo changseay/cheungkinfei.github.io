@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gudu.me/about/</loc>
+    <loc>https://gudu.me/about/</loc>
     <lastmod>2017-09-30T18:59:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gudu.me/archives/</loc>
+    <loc>https://gudu.me/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gudu.me/categories/</loc>
+    <loc>https://gudu.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gudu.me/tags/</loc>
+    <loc>https://gudu.me/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gudu.me/</loc>
+    <loc>https://gudu.me/</loc>
     <lastmod>2017-09-30T18:59:44+08:00</lastmod>
     <priority>0</priority>
   </url>
