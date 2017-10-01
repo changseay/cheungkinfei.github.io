@@ -6,206 +6,26 @@
     <description>Recent content in Tags on 孤独</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 02 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gudu.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Chinese</title>
-      <link>https://gudu.me/tags/chinese/</link>
-      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/chinese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cover Image</title>
-      <link>https://gudu.me/tags/cover-image/</link>
-      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/cover-image/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dailymotion</title>
-      <link>https://gudu.me/tags/dailymotion/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/dailymotion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disqus</title>
-      <link>https://gudu.me/tags/disqus/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/disqus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github Theme</title>
-      <link>https://gudu.me/tags/github-theme/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/github-theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google Analytics</title>
-      <link>https://gudu.me/tags/google-analytics/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/google-analytics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gravatar</title>
-      <link>https://gudu.me/tags/gravatar/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/gravatar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hexo Theme</title>
-      <link>https://gudu.me/tags/hexo-theme/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/hexo-theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Highlight Code</title>
-      <link>https://gudu.me/tags/highlight-code/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/highlight-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Html Elements</title>
       <link>https://gudu.me/tags/html-elements/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gudu.me/tags/html-elements/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Image Gallery</title>
-      <link>https://gudu.me/tags/image-gallery/</link>
-      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/image-gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Japanese</title>
-      <link>https://gudu.me/tags/japanese/</link>
-      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/japanese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Markdown</title>
       <link>https://gudu.me/tags/markdown/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gudu.me/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pagination</title>
-      <link>https://gudu.me/tags/pagination/</link>
-      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/pagination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Responsive</title>
-      <link>https://gudu.me/tags/responsive/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social</title>
-      <link>https://gudu.me/tags/social/</link>
-      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag Plugins</title>
-      <link>https://gudu.me/tags/tag-plugins/</link>
-      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/tag-plugins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://gudu.me/tags/tags/</link>
-      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://gudu.me/tags/test/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Videos Integration</title>
-      <link>https://gudu.me/tags/videos-integration/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/videos-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vimeo</title>
-      <link>https://gudu.me/tags/vimeo/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/vimeo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Youtube</title>
-      <link>https://gudu.me/tags/youtube/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/tags/youtube/</guid>
       <description></description>
     </item>
     
