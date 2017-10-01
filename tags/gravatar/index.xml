@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gravatar on Lonely</title>
+    <title>Gravatar on 孤独</title>
     <link>https://gudu.me/tags/gravatar/</link>
-    <description>Recent content in Gravatar on Lonely</description>
+    <description>Recent content in Gravatar on 孤独</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gudu.me/tags/gravatar/index.xml" rel="self" type="application/rss+xml" />
