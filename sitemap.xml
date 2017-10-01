@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gudu.me/2017/10/%E4%B8%89%E5%8D%81%E5%85%A5%E6%A2%A6%E9%AD%87%E4%B8%80%E6%9C%9D%E5%87%BA%E5%B0%98%E6%B5%B7/</loc>
+    <loc>https://gudu.me/2017/10/%E6%82%B2%E5%89%A7%E7%9A%84%E6%80%9D%E8%80%83/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,24 +18,6 @@
   </url>
   
   <url>
-    <loc>https://gudu.me/categories/features/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gudu.me/tags/html-elements/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gudu.me/tags/markdown/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gudu.me/post/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -43,18 +25,23 @@
   
   <url>
     <loc>https://gudu.me/tags/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gudu.me/categories/tranquilpeak/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gudu.me/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gudu.me/categories/%E6%82%B2%E5%89%A7/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gudu.me/tags/%E6%82%B2%E5%89%A7/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
