@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gudu.me/2017/10/%E6%82%B2%E5%89%A7%E7%9A%84%E6%80%9D%E8%80%83/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <loc>https://gudu.me/2017/10/lonely/</loc>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,31 +18,32 @@
   </url>
   
   <url>
+    <loc>https://gudu.me/tags/lonely/</loc>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gudu.me/categories/lonely/</loc>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gudu.me/post/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gudu.me/tags/</loc>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gudu.me/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gudu.me/tags/%E6%82%B2%E5%89%A7/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gudu.me/categories/%E6%82%B2%E5%89%A7/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
