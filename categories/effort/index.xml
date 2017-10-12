@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>孤独</title>
-    <link>https://gudu.me/</link>
-    <description>Recent content on 孤独</description>
+    <title>Effort on 孤独</title>
+    <link>https://gudu.me/categories/effort/</link>
+    <description>Recent content in Effort on 孤独</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 12 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://gudu.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gudu.me/categories/effort/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://gudu.me/2017/10/%E5%89%8D%E8%BF%9B/</guid>
       <description>我必须毫不懈怠的前进，一旦停下又将回到原点。我已经没有时间可以耽搁了。</description>
-    </item>
-    
-    <item>
-      <title>Lonely</title>
-      <link>https://gudu.me/2017/10/lonely/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gudu.me/2017/10/lonely/</guid>
-      <description>I held tight to the world, but rejected, that&amp;rsquo;s why I&amp;rsquo;ve gone so far. I never go back to normal just like never go back to yesterday. Sadness is in my blood, loneliness is my fate.</description>
     </item>
     
   </channel>

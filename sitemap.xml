@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gudu.me/2017/10/%E5%89%8D%E8%BF%9B/</loc>
+    <lastmod>2017-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gudu.me/2017/10/lonely/</loc>
     <lastmod>2017-10-11T00:00:00+00:00</lastmod>
   </url>
@@ -14,6 +19,18 @@
   
   <url>
     <loc>https://gudu.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gudu.me/tags/effort/</loc>
+    <lastmod>2017-10-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gudu.me/categories/effort/</loc>
+    <lastmod>2017-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,19 +48,19 @@
   
   <url>
     <loc>https://gudu.me/post/</loc>
-    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gudu.me/tags/</loc>
-    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gudu.me/</loc>
-    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
